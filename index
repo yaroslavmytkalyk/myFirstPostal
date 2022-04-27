@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Handlee&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="main-content">
+        <header>
+
+        </header>  
+        <section>
+            <form class="postcard" action="" method="post"></form>
+            <div class="postcard">
+                <div class="postcard-header">
+                    <img src="https://raw.githubusercontent.com/breatheco-de/exercise-postcard/main/.learn/assets/4geeks.png" alt="">
+                    <h1>My PostCard</h1>
+                </div>
+                <div class="postcard-body">
+                    <div class="left-part">
+                       <p>Look how awesome! This is a postcard that I Created using HTML and CSS3 during my 4geeks academy course!
+                           <br>
+                           <br>
+                            This is so cool, cant wait to start more stuff.
+                       </p>
+                    </div>
+                    <div class="right-part">
+                        <input type="text" name="" placeholder="Some name">
+                        <input type="text" email="" placeholder="Some Email">
+                        <input type="text" subject="" placeholder="Some context">
+                    </div>
+                </div>
+                <div class="postcard-footer">
+                    <input type="submit" value="Send My PostCard"">
+                </div>
+
+            </div>
+        </section>
+        <footer>
+
+        </footer>
+    </div>
+</body>
+</html>
